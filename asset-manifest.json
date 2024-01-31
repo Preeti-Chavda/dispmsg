@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diapmsg/static/css/main.8a7700e7.css",
+    "main.js": "/diapmsg/static/js/main.6a88909a.js",
+    "static/js/787.8bf51d6d.chunk.js": "/diapmsg/static/js/787.8bf51d6d.chunk.js",
+    "index.html": "/diapmsg/index.html",
+    "main.8a7700e7.css.map": "/diapmsg/static/css/main.8a7700e7.css.map",
+    "main.6a88909a.js.map": "/diapmsg/static/js/main.6a88909a.js.map",
+    "787.8bf51d6d.chunk.js.map": "/diapmsg/static/js/787.8bf51d6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a7700e7.css",
+    "static/js/main.6a88909a.js"
+  ]
+}
